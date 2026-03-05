@@ -42,4 +42,20 @@ struct Student{
 - There are three component of structure : 
     1. Data Member : variables used to store the data 
     2. Function Member: reusuable code that are repeatitive 
-    3. Constructor : Special type of function used to provide values to the structure variables.     
+    3. Constructor : Special type of function used to provide values to the structure variables.    
+
+
+*** 
+
+## Array 
+    - special variable that store multiple values of the same type in a single name
+    - can be used with loop to simplify operations  
+    - can be used with different of algorithm: 
+        - search data 
+        - delete 
+
+    + What we learn 
+        - how to declare array 
+        - how to assign/access for array element 
+        - how to iterate with array 
+        - foreach syntax with array 
