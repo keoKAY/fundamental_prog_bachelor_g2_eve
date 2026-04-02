@@ -58,7 +58,7 @@ class Student : public Person{
 }; 
 int main(){
     system("clear"); 
-    Student stu1("james",22male",96,"devops"); 
+    Student stu1("james","male",96,"devops"); 
     // accessing the values
     // stu1.input(); 
     stu1.output(); 
