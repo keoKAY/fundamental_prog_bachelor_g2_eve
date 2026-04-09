@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/CMakeFiles/tabulate-populate"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/CMakeFiles/tabulate-populate.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/CMakeFiles/tabulate-populate-complete.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/tabulate-populate-build.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/tabulate-populate-configure.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/tabulate-populate-download.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/tabulate-populate-install.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/tabulate-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/tabulate-populate-patch.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/tabulate-populate-test.rule"
+		},
+		{
+			"file" : "/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/tabulate-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tabulate-populate"
+		],
+		"name" : "tabulate-populate"
+	}
+}

@@ -1,0 +1,3 @@
+/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/xlnt-subbuild/CMakeFiles/xlnt-populate.dir
+/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/xlnt-subbuild/CMakeFiles/edit_cache.dir
+/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/xlnt-subbuild/CMakeFiles/rebuild_cache.dir

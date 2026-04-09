@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ExcelTableApp.dir/main.cpp.o -o ExcelTableApp  -Wl,-rpath,/home/kk/Documents/BachelorPrograms/E1_Fun_Programming/5.FinalProjects/build/_deps/xlnt-build/source _deps/xlnt-build/source/libxlnt.so.1.5.0 
